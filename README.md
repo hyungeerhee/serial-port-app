@@ -11,7 +11,7 @@ Electron 기반으로 개발된 데스크톱 애플리케이션으로, 시리얼
 - **프로젝트명**: Serial Port Interface
 - **기술 스택**: Electron, Node.js, SerialPort, HTML, CSS, JavaScript, Bootstrap
 - **문서화 도구**: Doxygen, MkDocs
-- **개발 환경**: Visual Studio Code, macOS
+- **개발 환경**: Visual Studio Code
 
 ---
 

@@ -1,9 +1,6 @@
 # ⚡ Serial Port Interface
-<img width="657" alt="image" src="https://github.com/user-attachments/assets/96b19043-1f2c-420f-9c68-a088e5f8a5b0" />
 
-직관적이고 강력한 시리얼 통신 디버깅 도구.  
-COM 포트를 통해 데이터를 송수신하고, 실시간 모니터링 및 패킷 검증이 가능한 데스크탑 애플리케이션입니다.
-
+COM 포트를 통한 시리얼 통신의 데이터 송수신, 패킷 처리, 실시간 모니터링 등 다양한 기능을 지원하는 데스크톱 애플리케이션입니다. 
 ---
 
 ## 📌 프로젝트 개요
